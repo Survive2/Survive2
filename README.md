@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KSroido&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Survive2&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 I am a rookie Pwner in SU team,interested in browser exploit.
 
@@ -13,7 +13,7 @@ I am a rookie Pwner in SU team,interested in browser exploit.
 * Playing basketball and football
 * Love coding and cyber security
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSroido&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survive2&layout=compact"/>
 
 ## 📮 How to reach me
 

@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hey!
 
-<!--
-**Survive2/Survive2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KSroido&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
+I am a rookie Pwner in SU team,interested in browser exploit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 About me
+
+<!-- * has a black childhood depicted in 300,000 words, may hit the bottom line then go crazy by incident, if this happens, please forgive me, I'm very sorry about that. -->
+* Preparing to take the National Post-graduate Entrance Examination in 2024
+* Learning basic knowledge about browser(mostly v8)
+* Love playing CTF with my teamates
+* Playing basketball and football
+* Love coding and cyber security
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSroido&layout=compact"/>
+
+## 📮 How to reach me
+
+-  [Email](mailto:ksxmyqj@gmail.com)
+-  [Linkedin](https://www.linkedin.com/in/jinglong-xie-33b747236/)
+
+## Some info
+
+![Visited By](https://count.getloli.com/get/@KSroido?theme=gelbooru)

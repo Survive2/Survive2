@@ -28,3 +28,5 @@ I am a rookie Pwner in SU team,interested in browser exploit.
 ## 📮 Other things
 - [h1J4cker's Blog](https://survive2.github.io)
 - [Email](0xh1j4cker@gmail.com)
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>

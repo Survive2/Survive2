@@ -14,7 +14,7 @@ I am a rookie Pwner of SU team,interested in browser exploit.
 * ⚡Love coding and cyber security
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survive2&hide=css,html"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Survive2&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
 <p align="left">

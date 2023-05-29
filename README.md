@@ -13,7 +13,7 @@ I am a rookie Pwner of SU team,interested in browser exploit.
 * 🥅Playing basketball and football
 * ⚡Love coding and cyber security
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survive2&layout=compact&hide=css,html"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Survive2&layout=compact&hide=css,html,javascript"/>
 
 ## Languages and Tools
 <p align="left">

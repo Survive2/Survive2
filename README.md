@@ -8,7 +8,7 @@ I am a rookie Pwner, interested in IOT/Kernel exploit.
 
 <!-- * has a black childhood depicted in 300,000 words, may hit the bottom line then go crazy by incident, if this happens, please forgive me, I'm very sorry about that. -->
 * 🌱Preparing to take the National Post-graduate Entrance Examination in 2024
-* 🔭Learning IOT/Kenel exploits
+* 🔭Learning IOT/Kernel exploits
 * :heart_eyes: Love playing CTF with my teamates 
 * 🥅Playing basketball and football
 * ⚡Love coding and cyber security

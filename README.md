@@ -29,4 +29,4 @@ I am a rookie Pwner, interested in IOT/Kernel exploit.
 - [h1J4cker's Blog](https://survive2.github.io)
 - [Email](0xh1j4cker@gmail.com)
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center"> Thanks for Visiting! :innocent: </h4>
